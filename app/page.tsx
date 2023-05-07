@@ -17,7 +17,7 @@ export default function Home() {
         </div>
       </div>
       <p className="my-5 max-w-[600px] text-neutral-800 dark:text-neutral-200">
-        bio
+       blog 
       </p>
       <ul className="flex flex-col md:flex-row mt-8 space-x-0 md:space-x-4 space-y-2 md:space-y-0 font-sm text-neutral-500 dark:text-neutral-400">
         <li>
